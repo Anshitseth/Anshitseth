@@ -1,27 +1,23 @@
 ### Hi, My Name is Anshit Seth. 👋
+Student At Madan Mohan Malaviya University Of Technology,Gorakhpur.
+B.Tech,Computer Science and Engineering.
 
-🌱 I’m currently learning Data Structures And Algorithms and Web Development
+🌱 I’m currently learning Data Structures And Algorithms,Web Development
 
-🤔 I’m looking for help with Dsa
+🤔 I’m looking for help with Competitive Programming
 
-📫 How to reach me:linkedin:@anshitseth, Instagram:@anshitseth, Email:anshitseth@gmail.com
-
-😄 Pronouns: He/His
-
+📫 How to reach me: 
+  <a class="footer-link" href="https://www.linkedin.com/in/anshitseth/">LinkedIn@anshitseth</a>
+  <a class="footer-link" href="https://twitter.com/SethAnshit">Twitter@SethAnshit</a>
+  <a class="footer-link" href="https://www.instagram.com/anshitseth/">Instagram@anshitseth</a>
+  
+  Email: anshitseth@gmail.com
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Anshitseth&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anshitseth&theme=radical)](https://git.io/streak-stats)
-<!--
-**Anshitseth/Anshitseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshitseth&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Get In Touch</h2>
+<h3>To Explore and Learn New Technology</h3>
