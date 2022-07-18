@@ -9,6 +9,8 @@
 😄 Pronouns: He/His
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Anshitseth&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anshitseth&theme=radical)](https://git.io/streak-stats)
 <!--
 **Anshitseth/Anshitseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
